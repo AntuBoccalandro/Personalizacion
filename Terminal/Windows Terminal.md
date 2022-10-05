@@ -8,7 +8,7 @@ La terminal de Windows por defecto es bastante fea, para personalizarla instalar
 * Instalación de Oh-my-Posh
 * Personalización de la terminal
 
-![](../src/Terminal.png)
+![](src/Terminal.png)
 
 ## **Instalar herramientas**
 
