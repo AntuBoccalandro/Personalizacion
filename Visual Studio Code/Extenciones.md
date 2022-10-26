@@ -1,6 +1,4 @@
-# **Extenciones**
-
-## **Extenciones por Lenguajes**
+# Extenciones de Visual Studio Code
 
 ### PYTHON
 
@@ -12,20 +10,18 @@
 
 [python2]: https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
 
+### HTML 
+
+* [Auto-rename-tag][html] → permite renombrar etiquetas solo seleccionando una, de manera que nos se necesita seleccionar las dos etiquetas para modificar su contenido.
+
+
+[html]: https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+
 ### JAVASCRIPT
 
 * [Prettier][js1] → Pre-formater de código
-* [Quokka.js][js2]→ Muestra el resultado del código en tiempo real. Además muestra errores por cada línea de código.
 
 [js1]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
-[js2]: https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
-
-### C++
-
-* [C/C++ Extencion Pack][c++1] → Pack de extenciones de soporte del lenguaje, coloreado de sintaxis, temas y debugging.
-
-[c++1]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack
 
 ### ARDUINO
 
@@ -33,41 +29,29 @@
 
 [arduino1]: https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide
 
-## **Herramientas**
+### MARKDOWN
 
-### GIT
-### CAPTURA DE CÓDIGO
+* [Markdown-All-in-One][markdown-all-in-one] → Múltiples herramientas que te permiten trabajar con documentos de markdown.
+* [Markdown-pdf][markdown-pdf] → Permite descargar en formato pdf archivos de markdown.
+
+[markdown-all-in-one]: https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+[markdown-pdf]: https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf
+
+### HERRAMIENTAS
 
 * [CodeSnap][capture1] → Captura el código seleccionado para obtener una imagen .png para descargar.
 
 [capture1]: https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap
 
-### TERMINAL
+###  TEMAS Y ESTÉTICA
 
-## **Sintaxis**
+* [Vim-theme][vimtheme] → Este tema proporciona un estilo muy arecido a ciertos temas del editor vim, una estética elegante con un filtro amarillento y colores cálidos.
 
-* [Better comments][sin1] → Colorea cada par de {} [] o () de manera diferente para diferenciar mejor cada parte del código. Ejemplo: **`print(function(tupla=(1,2,3,4,5,9)))`*
-
-[sin1]: https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
-
-## **Temas y estética**
-
-### TEMAS
-* [Dracula Official][tema1]
-* [Electron][tema2]
-* [C/C++ Themes][tema3]
-* [Andromeda][tema4]
-* [Monokai Pro ][tema5]
-* [One Dark Pro ][tema6]
-
-[tema1]: https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
-[tema2]: https://marketplace.visualstudio.com/items?itemName=kuscamara.electron
-[tema3]: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes
-[tema4]: https://marketplace.visualstudio.com/items?itemName=EliverLara.andromeda
-[tema5]: https://marketplace.visualstudio.com/items?itemName=monokai.theme-monokai-pro-vscode
-[tema6]: https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme
-
-### ICONOS
 * [Material Icon Theme][icon1] → Muestra iconos en las carpetas o archivos dependiendo del lenguaje o el nombre de la carpeta.
 
+[vimtheme]: https://marketplace.visualstudio.com/items?itemName=HarryHopkinson.vim-theme
+
+[vimtheme]: https://marketplace.visualstudio.com/items?itemName=HarryHopkinson.vim-theme
+
 [icon1]: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+
